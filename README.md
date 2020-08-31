@@ -9,14 +9,14 @@
 * [Contact](#contact)
 
 ## Screenshots
-![Example screenshot](./img/Horiseon_screencapture.png)
+![Example screenshot](./images/Horiseon_screencapture.png)
 
 ## Technologies
 * HTML
 * CSS
 
 ## Status
-Project is:_finished_
+Project is: _finished_
 
 ## Description
 First Class project for Coding Boot Camp, 2020.
