@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## Screenshots
-![Example screenshot](.Develop/assets/images/Horiseon_screencapture.png)
+![Example screenshot](Develop/assets/images/Horiseon_screencapture.png)
 
 ## Technologies
 * HTML
