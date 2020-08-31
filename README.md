@@ -4,37 +4,22 @@
 ## Table of contents
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
+* [Description](#description)
 * [Contact](#contact)
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/Horiseon_screencapture.png)
 
 ## Technologies
 * HTML
 * CSS
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is:_finished_
 
-## Inspiration
-Add here credits. Project inspired by..., based on...
+## Description
+First Class project for Coding Boot Camp, 2020.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@cbiertz](https://github.com/cbiertz)
